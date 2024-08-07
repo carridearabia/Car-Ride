@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Rental with Driver in Makkah | Car Ride Arabia</title>
+    <meta name="description" content="Rent a car with a driver in Makkah for Hajj, Umrah, and tourism. Explore our wide range of vehicles and enjoy a comfortable journey.">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #444;
+            padding: 10px 0;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .hero {
+            background-color: #007BFF;
+            color: white;
+            padding: 100px 20px;
+            text-align: center;
+        }
+        .hero h2 {
+            font-size: 36px;
+            margin: 0;
+        }
+        .hero p {
+            font-size: 18px;
+        }
+        main {
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .service, .car-models, .faq, .testimonials {
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .service h3, .car-models h3, .faq h3, .testimonials h3 {
+            margin-top: 0;
+        }
+        .cta-button {
+            display: block;
+            width: 100%;
+            max-width: 300px;
+            margin: 20px auto;
+            padding: 15px;
+            background-color: #007BFF;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            font-size: 16px;
+            border-radius: 8px;
+        }
+        .cta-button:hover {
+            background-color: #0056b3;
+        }
+        .whatsapp-button {
+            display: block;
+            width: 100%;
+            max-width: 300px;
+            margin: 0 auto 20px;
+            padding: 15px;
+            background-color: #25D366;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            font-size: 16px;
+            border-radius: 8px;
+        }
+        .whatsapp-button:hover {
+            background-color: #1ebe57;
+        }
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin: 20px 0;
+        }
+        .social-links a {
+            color: #333;
+            text-decoration: none;
+            font-size: 24px;
+        }
+        .map-container {
+            text-align: center;
+        }
+        .map-container iframe {
+            width: 100%;
+            max-width: 600px;
+            height: 300px;
+            border: none;
+            border-radius: 8px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .footer-links {
+            margin: 10px 0;
+        }
+        .footer-links a {
+            color: white;
+            margin: 0 10px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Car Ride Arabia</h1>
+        <div class="social-links">
+            <a href="https://www.facebook.com/carridearabia" target="_blank"><i class="fab fa-facebook"></i></a>
+            <a href="https://x.com/CarRideArabia" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.youtube.com/@CarRideArabia" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://www.instagram.com/luxury_car_ride/" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.pinterest.com/carridearabiaksa/" target="_blank"><i class="fab fa-pinterest"></i></a>
+        </div>
+    </header>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#services">Services</a>
+        <a href="#car-models">Car Models</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section class="hero">
+        <h2>Rent a Car with a Driver in Makkah</h2>
+        <p>Your trusted partner for car rental services with drivers in Saudi Arabia</p>
+        <a href="https://carridearabia.com/rent-a-car-with-a-driver-in-makkah/" class="cta-button" target="_blank">Book Now</a>
+    </section>
+    <main>
+        <section id="home" class="section">
+            <h2>Welcome to Car Ride Arabia</h2>
+            <p>Your trusted partner for car rental services with drivers in Saudi Arabia, catering to Hajj, Umrah, and tourism needs for the worldwide Muslim community. We are organizing worldwide Umrah trips from France and Belgium.</p>
+        </section>
+        <section id="services" class="section">
+            <h1>Rent a Car with a Driver in Makkah</h1>
+            <div class="service">
+                <h3>Umrah Trips</h3>
+                <p>We organize Umrah trips for groups and individuals from France and Belgium, providing a seamless and comfortable experience.</p>
+                <p>Our services include airport pickups, guided tours, and transportation for all your needs during your stay in Makkah.</p>
+                <p>Our experienced drivers are familiar with all routes and ensure a safe and pleasant journey for you and your family.</p>
+            </div>
+        </section>
+        <section id="car-models" class="section">
+            <h2>Our Car Models</h2>
+            <div class="car-models">
+                <h3>Available Cars</h3>
+                <ul>
+                    <li>Toyota Camry</li>
+                    <li>GMC Yukon XL</li>
+                    <li>Hyundai Staria</li>
+                    <li>Toyota Hiace</li>
+                    <li>Hyundai Grand Starex H1</li>
+                    <li>Coaster</li>
+                </ul>
+                <p>All our vehicles are well-maintained and equipped with modern amenities to ensure your comfort and convenience.</p>
+            </div>
+        </section>
+        <section id="faq" class="section">
+            <h2>Frequently Asked Questions</h2>
+            <div class="faq">
+                <h3>What services do you offer?</h3>
+                <p>We offer car rental services with drivers for Hajj, Umrah, and tourism in Makkah.</p>
+                <h3>How can I book a car?</h3>
+                <p>You can book a car through our website or contact us via WhatsApp.</p>
+                <h3>Are your drivers experienced?</h3>
+                <p>Yes, our drivers are highly experienced and familiar with all routes in Makkah to ensure a safe and comfortable journey.</p>
+                <h3>Do you provide airport pickups?</h3>
+                <p>Yes, we offer airport pickup services to ensure you have a hassle-free arrival in Makkah.</p>
+                <h3>What car models do you offer?</h3>
+                <p>We offer a range of vehicles including Toyota Camry, GMC Yukon XL, Hyundai Staria, Toyota Hiace, Hyundai Grand Starex H1, and Coaster.</p>
+            </div>
+        </section>
+        <section id="testimonials" class="section">
+            <h2>Customer Testimonials</h2>
+            <div class="testimonials">
+                <h3>John Doe</h3>
+                <p>"Excellent service! The driver was professional and the car was very comfortable."</p>
+                <h3>Jane Smith</h3>
+                <p>"Our Umrah trip was smooth and hassle-free thanks to Car Ride Arabia."</p>
+                <h3>Ahmed Ali</h3>
+                <p>"Highly recommend Car Ride Arabia for their exceptional service and well-maintained vehicles."</p>
+                <h3>Fatima Zahra</h3>
+                <p>"The car was clean, the driver was friendly, and the overall experience was excellent. Will definitely use their service again."</p>
+            </div>
+        </section>
+        <section class="map-container">
+            <h2>Our Location</h2>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13405.042251136773!2d39.82373775!3d21.38908965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c214e0bb5b3d4b%3A0x146d81b6e8c5b1!2sMecca%2C%20Saudi%20Arabia!5e0!3m2!1sen!2sus!4v1632588755293!5m2!1sen!2sus" allowfullscreen="" loading="lazy"></iframe>
+        </section>
+        <a href="https://api.whatsapp.com/send/?phone=966501729282&text&type=phone_number&app_absent=0" class="whatsapp-button" target="_blank"><i class="fab fa-whatsapp"></i> Contact Us on WhatsApp</a>
+    </main>
+    <footer>
+        <p>&copy; 2024 Car Ride Arabia. All rights reserved.</p>
+        <div class="footer-links">
+            <a href="#home">Home</a>
+            <a href="#services">Services</a>
+            <a href="#car-models">Car Models</a>
+            <a href="#contact">Contact</a>
+        </div>
+        <div class="social-links">
+            <a href="https://www.facebook.com/carridearabia" target="_blank"><i class="fab fa-facebook"></i></a>
+            <a href="https://x.com/CarRideArabia" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.youtube.com/@CarRideArabia" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://www.instagram.com/luxury_car_ride/" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.pinterest.com/carridearabiaksa/" target="_blank"><i class="fab fa-pinterest"></i></a>
+        </div>
+    </footer>
+</body>
+</html>
